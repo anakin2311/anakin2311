@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anakin2311
-- 👀 I’m interested in Data Structures and Algorithms, ML/ AI, and Robotics.
-- 🌱 I’m currently learning Deep Learning and Reinforcement Learning algorithms and concepts.
+- 👀 I’m interested in Data Structures and Algorithms and ML/ AI.
+- 🌱 I’m currently proficient in Deep Learning and Classical Machine Learning algorithms and concepts, and I do competitive programming in my free time.
 - 💞️ I’m looking to collaborate on any relevant projects.
 
 <!---
